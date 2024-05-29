@@ -8,9 +8,6 @@
     "declarativeContent",
     "storage"
   ],
-  "background": {
-    "service_worker": "background.js"
-  },
   "content_scripts": [
     {
       "matches": ["https://www.linkedin.com/*"],
